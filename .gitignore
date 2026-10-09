@@ -1,0 +1,9 @@
+# Logged-in browser session (contains your CHOICE cookies - never commit)
+.browser-profile/
+
+# Scraped data and debug dumps
+output/
+debug/
+
+__pycache__/
+.venv/

@@ -1,0 +1,19 @@
+{
+  "_note": "Listing-page URLs for each category. If one is wrong, open choice.com.au in your browser, go to that category's 'review and compare' page, and paste its URL here.",
+  "air-fryers": {
+    "name": "Air fryers",
+    "url": "https://www.choice.com.au/home-and-living/kitchen/cooking/review-and-compare/air-fryers"
+  },
+  "robot-vacuums": {
+    "name": "Robot vacuums",
+    "url": "https://www.choice.com.au/home-and-living/cleaning/vacuum-cleaners/review-and-compare/robot-vacuums"
+  },
+  "kettles": {
+    "name": "Kettles",
+    "url": "https://www.choice.com.au/home-and-living/kitchen/kettles-and-toasters/review-and-compare/kettles"
+  },
+  "tvs": {
+    "name": "TVs",
+    "url": "https://www.choice.com.au/electronics-and-technology/home-entertainment/tvs/review-and-compare/tvs"
+  }
+}
